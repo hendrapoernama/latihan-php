@@ -13,6 +13,6 @@ class ConfigurationTest extends TestCase
      */
     public function testConfig(): void
     {
-       var_dump("test");
+       var_dump("testing saya");
     }
 }
